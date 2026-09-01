@@ -1,7 +1,8 @@
 {
-    "www.alza.cz": {
-        "code": "TEST20",
-        "discount": "20 %",
+    
+       "www.alza.cz": {
+    "code": "ONLINE20",
+           "discount": "20 %",
         "description": "Testovací slevový kód"
     },
     "www.notino.cz": {
