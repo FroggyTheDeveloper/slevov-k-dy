@@ -1,13 +1,15 @@
 {
-    
-       "www.alza.cz": {
-    "code": "ONLINE20",
-           "discount": "20 %",
-        "description": "Testovací slevový kód"
+    "www.alza.cz": {
+        "code": "TEST20",
+        "discount": "20 %",
+        "description": "Testovací slevový kód",
+        "expires": "2026-12-31"
     },
+
     "www.notino.cz": {
         "code": "NOTINO10",
         "discount": "10 %",
-        "description": "Testovací slevový kód"
+        "description": "Testovací slevový kód",
+        "expires": "2026-12-31"
     }
 }
